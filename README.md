@@ -32,7 +32,9 @@
 
 ###
 
-<p align="left">This original dataset provides comprehensive information on property sales in England and Wales in 1995 - 2023, as sourced from the UK government's HM Land Registry. It offers valuable insights into property transactions, including sale prices, locations, and types of properties sold.<br>Although the original dataset has the period from 1995 to 2023, but in this project, I only focus on the period 2019 – 2023.</p>
+<p align="left">Welcome to the UK Housing Price Insights project! In this analysis, we delve into the dynamic landscape of housing prices across the UK. This exploration aims to uncover crucial information about the most and least expensive areas, track changes in prices over time, and provide a comprehensive understanding of the factors shaping the real estate market. <br>
+Whether you're interested in regional variations, historical trends, or other aspects of UK housing prices, this project is your go-to resource. Feel free to explore the data, analyse trends, and gain valuable insights into the UK real estate market. Your questions and contributions are welcome!
+</p>
 
 ###
 
