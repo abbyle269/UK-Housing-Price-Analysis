@@ -70,9 +70,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+![1](https://github.com/letuthieny/UK-House-Price/assets/48614949/9c1d99ae-6d7e-482f-bf78-cba5c8159a5a)
+
 
 ###
 
