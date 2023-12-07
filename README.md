@@ -204,7 +204,7 @@ cd C:/Users/letut/UK-House-Price/
 ```
 ###
 
-<p align="left">Note: remember using the forward flash (/) only in Git Bash</p>
+<p align="left">Note: remember only use forward flash (/) in Git Bash</p>
 
 ###
 
