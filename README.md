@@ -183,7 +183,10 @@ git lfs install
 
 ###
 
-<p align="left"> ⚠️ Note: with folder has big size files such as CSV, etc you need to zip the whole folder into 1 Zip folder, if not you can’t upload it to Github and will get the narrow folder after uploading.</p>
+<p align="left"> ⚠️ Note: If the folder has large size files such as CSV (more than 1GB), etc you need to zip the whole folder into 1 Zip folder, if not you can’t upload it to Github and will get the narrow folder after uploading.</p>
+
+###
+![image](https://github.com/letuthieny/UK-House-Price/assets/48614949/d28b57e5-150f-4aa2-86d9-26e51a251e9d)
 
 ###
 
