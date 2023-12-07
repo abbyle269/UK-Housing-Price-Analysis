@@ -70,8 +70,9 @@
 
 ###
 
-![1](https://github.com/letuthieny/UK-House-Price/assets/48614949/9c1d99ae-6d7e-482f-bf78-cba5c8159a5a)
-
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
 
@@ -95,6 +96,145 @@
 
 ###
 
-<p align="left">Step 1: Download GIT <br>https://gitforwindows.org/ <br><br>Step 2: Download Git Large File Storage (LFS) <br>It replaces large files such as audio samples, videos, datasets, … with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.<br>https://git-lfs.com/ <br><br>Step 3: Navigate the file direction for LFS get the files<br>Open command Prompt<br> input <br>cd A:\Abby Portfolio\UK_Housing_Price<br><br>Step 4: Initializes a new Git repository<br>Open command Prompt<br> input <br>git init<br> output<br> Initialized empty Git repository in …<br> <br>Step 5: Initialize Git LFS<br>Open Git Bash <br> input <br>git lfs install<br> output<br>Updated Git hooks<br>Git LFS initialized  <br> <br>Note: with folder has big size files such as CSV, etc you need to zip the whole folder into 1 Zip folder, if not you can’t upload it to Github and will get the narrow folder after uploading.  <br><br>Step 6<br>From Git Bash app, you navigate the the direction to where your files are:<br> input <br>cd C:/Users/letut/UK-House-Price/<br>Note: remember using the forward flash (/) only in Git Bash <br> output<br> <br>Step 7<br> input <br>$ git add .<br>$ git add .gitattributes<br>$ git commit -m "This is description, so can write any comment you like"<br>$ git push origin main<br> output<br>Uploading LFS objects: 100% (1/1), 209 MB | 1.3 MB/s, done.<br>Enumerating objects: 10, done.<br>Counting objects: 100% (10/10), done.<br>Delta compression using up to 4 threads<br>Compressing objects: 100% (6/6), done.<br>Writing objects: 100% (6/6), 1.08 KiB | 1.08 MiB/s, done.<br>Total 6 (delta 2), reused 0 (delta 0), pack-reused 0<br>remote: Resolving deltas: 100% (2/2), completed with 1 local object.</p>
+<h5 align="left">Step 1: Download GIT</h5>
 
 ###
+
+<p align="left">https://gitforwindows.org/</p>
+
+###
+
+<h5 align="left">Step 2: Download Git Large File Storage (LFS)</h5>
+
+###
+
+<p align="left">It replaces large files such as audio samples, videos, datasets, … with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.</p>
+
+###
+
+<p align="left">https://git-lfs.com/</p>
+
+###
+
+<h5 align="left">Step 3: Initialize Git LFS in Your Repository </h5>
+
+###
+
+<p align="left">Input</p>
+
+###
+
+```bash
+git lfs install
+```
+
+###
+<h5 align="left">Step 4: Initialize a new Git repository</h5>
+
+###
+<p Initialize a new Git repository or reinitialize an existing one.
+When you run git init in a directory, it sets up the necessary files and data structures for Git version control in that directory.
+It creates a new subdirectory named .git that contains all the metadata and configuration for the repository.</p>
+  
+###
+<p align="left">Input</p>
+
+###
+
+```bash 
+git init
+```
+
+###
+
+<p align="left">Output</p>
+
+###
+
+<p align="left"> Initialized empty Git repository in …!</p>
+
+###
+![image](https://github.com/letuthieny/UK-House-Price/assets/48614949/f6746bc0-a103-46a4-818c-3bb15dd17b5b)
+
+###
+<h5 align="left">Step 5: Initialize Git LFS</h5>
+
+###
+
+<p align="left">Open Git Bash</p>
+
+###
+
+<p align="left">Input</p>
+
+###
+
+```bash  
+git lfs install
+```
+###
+
+<p align="left">Output</p>
+
+###
+![image](https://github.com/letuthieny/UK-House-Price/assets/48614949/03d8cbda-7b1a-4c60-8d90-a75140148ca9)
+
+###
+
+<p align="left">Note: with folder has big size files such as CSV, etc you need to zip the whole folder into 1 Zip folder, if not you can’t upload it to Github and will get the narrow folder after uploading.</p>
+
+###
+
+<h5 align="left">Step 6</h5>
+
+###
+
+<p align="left">From Git Bash app, you navigate the the direction to where your files are:</p>
+
+###
+
+
+```bash 
+cd C:/Users/letut/UK-House-Price/
+```
+###
+
+<p align="left">Note: remember using the forward flash (/) only in Git Bash</p>
+
+###
+
+<p align="left">Output</p>
+
+###
+![image](https://github.com/letuthieny/UK-House-Price/assets/48614949/1c893143-eb43-4508-a877-689e748f6c58)
+
+
+###
+
+<h5 align="left">Step 7</h5>
+
+###
+
+<p align="left">Input</p>
+
+###
+```bash 
+  git add .
+  git add .gitattributes
+  git commit -m "This is description, so can write any comment you like"
+  git push origin main
+```
+###
+
+<p align="left">Output</p>
+
+###
+
+```bash 
+  Uploading LFS objects: 100% (1/1), 209 MB | 1.3 MB/s, done. 
+  Enumerating objects: 10, done. <br> Counting objects: 100% (10/10), done.
+  Delta compression using up to 4 threads<br>Compressing objects: 100% (6/6), done.
+  Writing objects: 100% (6/6), 1.08 KiB | 1.08 MiB/s, done.
+  Total 6 (delta 2), reused 0 (delta 0), pack-reused 0
+  remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+```
