@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">https://www.kaggle.com/datasets/lorentzyeung/price-paid-data-202304/data (Kaggle)<br>In this project, I only focus within the timeframe of 2019 to 202, so I run this Python Script on the 4GB csv file to download the dataset from 2019 – 2023. However, to easily upload the csv file to MS SQL, I also need to reduce the size so I divide the file into 3 csv files. Original dataset has 16 columns, drop out 4 columns to become 12 columns, reduce one csv 4 GB to 3 csv files as MSSQL not allow to upload file over 300 KB. <br><br>Note: you can use another environment to normalize the data like Google Colab, etc, but for convenience, Kaggle will allow bigdata file uploads without setup time.<br>https://github.com/letuthieny/UK-House-Price/tree/main/Kaggle%20-%20Python%20file <br><br>Or you can skip this Python step and download directly 3 CSV files from <br>Link: https://github.com/letuthieny/UK-House-Price/tree/main/CSV%20Files</p>
+<p align="left">https://www.kaggle.com/datasets/lorentzyeung/price-paid-data-202304/data (Kaggle)<br>In this project, I only focus within the timeframe of 2019 to 202, so I run this Python Script on the 4GB csv file to download the dataset from 2019 – 2023. However, to easily upload the csv file to MS SQL, I also need to reduce the size so I divide the file into 3 csv files. Original dataset has 16 columns, drop out 4 columns to become 12 columns, reduce one csv 4 GB to 3 csv files as MSSQL not allow to upload file over 300 KB. <br><br>⚠️ Note: you can use another environment to normalize the data like Google Colab, etc, but for convenience, Kaggle will allow bigdata file uploads without setup time.<br>https://github.com/letuthieny/UK-House-Price/tree/main/Kaggle%20-%20Python%20file <br><br>Or you can skip this Python step and download directly 3 CSV files from <br>Link: https://github.com/letuthieny/UK-House-Price/tree/main/CSV%20Files</p>
 
 ###
 
@@ -70,9 +70,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+![1](https://github.com/letuthieny/UK-House-Price/assets/48614949/0973c35e-9bac-4820-9916-3d213b88e567)
 
 ###
 
@@ -92,11 +90,15 @@
 
 ###
 
+Link: https://github.com/letuthieny/UK-House-Price/tree/main/SQL%20Queries/Insight%20Queries
+  
+###
+
 <h2 align="left">Upload large files to Github</h2>
 
 ###
 
-<h5 align="left">Step 1: Download GIT</h5>
++ <h5 align="left">Step 1: Download GIT</h5>
 
 ###
 
@@ -104,7 +106,7 @@
 
 ###
 
-<h5 align="left">Step 2: Download Git Large File Storage (LFS)</h5>
++ <h5 align="left">Step 2: Download Git Large File Storage (LFS)</h5>
 
 ###
 
@@ -116,7 +118,7 @@
 
 ###
 
-<h5 align="left">Step 3: Initialize Git LFS in Your Repository </h5>
++ <h5 align="left">Step 3: Initialize Git LFS in Your Repository </h5>
 
 ###
 
@@ -129,7 +131,7 @@ git lfs install
 ```
 
 ###
-<h5 align="left">Step 4: Initialize a new Git repository</h5>
++ <h5 align="left">Step 4: Initialize a new Git repository</h5>
 
 ###
 <p Initialize a new Git repository or reinitialize an existing one.
@@ -157,7 +159,7 @@ git init
 ![image](https://github.com/letuthieny/UK-House-Price/assets/48614949/f6746bc0-a103-46a4-818c-3bb15dd17b5b)
 
 ###
-<h5 align="left">Step 5: Initialize Git LFS</h5>
++ <h5 align="left">Step 5: Initialize Git LFS</h5>
 
 ###
 
@@ -181,11 +183,11 @@ git lfs install
 
 ###
 
-<p align="left">Note: with folder has big size files such as CSV, etc you need to zip the whole folder into 1 Zip folder, if not you can’t upload it to Github and will get the narrow folder after uploading.</p>
+<p align="left"> ⚠️ Note: with folder has big size files such as CSV, etc you need to zip the whole folder into 1 Zip folder, if not you can’t upload it to Github and will get the narrow folder after uploading.</p>
 
 ###
 
-<h5 align="left">Step 6</h5>
++ <h5 align="left">Step 6</h5>
 
 ###
 
@@ -211,7 +213,7 @@ cd C:/Users/letut/UK-House-Price/
 
 ###
 
-<h5 align="left">Step 7</h5>
++ <h5 align="left">Step 7</h5>
 
 ###
 
