@@ -25,7 +25,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" height="40" alt="microsoftsqlserver logo"  />
+  
+  <img src="https://logowik.com/content/uploads/images/tableau-software.jpg" height="40" alt="tableau logo"  /> 
+  <img width="12" />
+
 </div>
 
 ###
