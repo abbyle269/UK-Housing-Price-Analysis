@@ -94,6 +94,15 @@ Link: https://github.com/letuthieny/UK-Housing-Price-Analysis/tree/main/SQL%20Qu
   
 ###
 
+<h2 align="left">Visualizing on Tableau</h2>
+
+###
+
+![UK HOUSING PRICE INSIGHT](https://github.com/letuthieny/UK-Housing-Price-Analysis/assets/48614949/e56f0210-5177-476d-86b3-8295280acac4)
+Link: https://github.com/letuthieny/UK-Housing-Price-Analysis/tree/main/Tableau%20files
+
+###
+
 <h2 align="left">Upload large files to Github</h2>
 
 ###
